@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Canon.com/ijsetup
 
-You can use the [editor on GitHub](https://github.com/httpC0nijcom/httpC0nijcom.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![canon.com/ijsetup](get-started-today.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**C**anon is a very good printing device these days. It gives us so many features. If you are connecting your printer very first time, you need to keep in mind so many things. But, with the help of this article you will definitely get easy and complete information about **“canon.com/ijsetup”**. If you really want to install your canon printer so the very first thing you need to download and install your canon drivers. 
 
-### Markdown
+##  How To Download Canon Printer Drivers?  
+_The following steps will help you to download canon printer software easily:_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Open your web browser and go to **“[canon.com/ijsetup](https://httpc0nijcom.github.io/)”**. 
+2. Now, you will be asked to choose your preferred language and  your country. Do the same.
+3. After that, you will be redirected to the sign up page. 
+4. Login to your account by providing the required login details.
+5. Create an account if you are a new user.
+6. Then, you will be taken to the Product selection window. 
+7. Enter the model number of your printer and then, click **“Go”**. 
+8. Select your device and you will then see a download button.
+9. Click the download button to start the downloading process.
 
-```markdown
-Syntax highlighted code block
+##   How to setup Canon printer on MAC?
+_Visit canon.com/ijsetup mac to install Canon printer on MAC._
 
-# Header 1
-## Header 2
-### Header 3
+1. Insert cartridges and turn **ON** your Canon printer.
+2. Connect your canon printer via **USB** cable.
+3. Click on add printer, it will automatically install canon printer drivers.
+4. If it above steps does not work, you need to download printer drivers from**“[canon.com/ijsetup](https://httpc0nijcom.github.io/)”** mac.
+5. Click on downloaded file to install **Canon printer**.
 
-- Bulleted
-- List
+##   How to install & setup Canon Wireless Printer without a USB cable connection?
+_Below is the step which helps you in setting up the Canon wireless printer without the USB connection._
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/httpC0nijcom/httpC0nijcom.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Locate the **WPS** button on the **WIFI** router.
+2. Open the control panel and click on the **“Add Printer”** option.
+3.  It will search for an available printer, once you see your Printer select and press next.
+4. It will download and install the Printer drivers for Windows database.
+5. If your Printer is not on the list, do not worry to visit **“[canon.com/ijsetup](https://httpc0nijcom.github.io/)”**.
+6. Type your Printer model, hit on download to get drivers as per your Printer model.
+7. Once you see the drivers’ downloaded file open it.
+8. Select the options to install a wireless Printer without a **USB** cable connection.
+9. After a few clicks, you will ask to press the **WPS** button on the **WIFI** router.
+10. Press the **WPS** button on your **WIFI** router and press the ok button on your Printer.
+11. Once you see a connection successful on your Printer screen, check with test printout.
