@@ -1,6 +1,6 @@
 # Canon.com/ijsetup
 
-[![canon.com/ijsetup](get-started-today.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![canon.com/ijsetup](get-started-today.png)](https://can.printredir.com)
 
 **C**anon is a very good printing device these days. It gives us so many features. If you are connecting your printer very first time, you need to keep in mind so many things. But, with the help of this article you will definitely get easy and complete information about **“canon.com/ijsetup”**. If you really want to install your canon printer so the very first thing you need to download and install your canon drivers. 
 
